@@ -1,4 +1,4 @@
-requests
-BeautifulSoup4
-selenium
 jupyter
+huggingface_hub
+datasets
+pandas
